@@ -6,7 +6,6 @@ The data for this dashboard was sourced from the World Bank, using their World D
 
 Dashboard Contents
 The dashboard contains several visualizations, including:
-
-A world map showing GDP per capita for each country.
+A world map showing GDP per capita , GNI for each country.
 A scatter plot comparing GNI per capita to inflation rate for each country.
 
